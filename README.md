@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @amycweng, a current sophomore at Duke University. 
 - 👀 I’m interested in the digital humanities! 
-- 🌱 I’m currently learning about computer systems. 
+- 🌱 I’m currently learning about artificial intelligence. 
 
 
 <!---
