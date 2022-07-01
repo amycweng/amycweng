@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @amycweng, a current sophomore at Duke University. 
+- 👋 Hi, I’m @amycweng, a member of the Class of 2024 at Duke University. 
 - 👀 I’m interested in the digital humanities! 
-- 🌱 I’m currently learning about artificial intelligence. 
 
 
 <!---
